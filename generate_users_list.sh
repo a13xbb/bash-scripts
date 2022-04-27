@@ -4,7 +4,7 @@ dir=`dirname $0`
 
 result_file="$dir/users_list.txt"
 
-count_users=500
+count_users=20
 
 rm $result_file
 
